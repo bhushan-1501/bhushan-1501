@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I'm proud of:
 
 1. **OACHARYA** [Repository Link](https://github.com/bhushan-1501/OAcharya)
-   - A web portal designed using HTML, CSS, and JavaScript to facilitate interactions between pandits and customers during the COVID-19 pandemic. I was responsible for the front-end development.
+   - A web portal designed using HTML, CSS, and JavaScript to facilitate interactions between pandits and customers during the COVID-19 pandemic. I was responsible for the both front-end and back-end development.
 
 2. **StudyBooth Application** [Repository Link](https://github.com/bhushan-1501/StudyBooth_Application_Final/)
    - An application built using **Flutter** and **Firebase** that serves as a one-stop platform for students and teachers to connect, share resources, and schedule study sessions. I handled both the front-end and back-end development.
