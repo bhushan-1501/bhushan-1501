@@ -3,7 +3,9 @@
 I'm Bhushan Ghevde, a passionate software developer based in Kalyan. Welcome to my GitHub profile! Here, you'll find some of the projects I've been working on.
 
 🌱 I'm currently learning C# and Angular JS.
+
 👯 I'm looking to collaborate on any Software related Projects.
+
 📫 How to reach me: Bhushanghevde15@gmail.com.
 
 ## 🔧 Technologies & Tools
