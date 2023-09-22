@@ -16,7 +16,7 @@ Here are some of the technologies and tools I work with:
 - **Frameworks & Libraries:** Flutter, Angular.
 - **Databases:** SQL, Firebase.
 - **Version Control:** Git.
-- **Operating Systems:** Windows, Linux.
+- **Operating Systems:** Windows.
 
 ## 🚀 Projects
 
