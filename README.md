@@ -1,28 +1,26 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate software developer based in [Your Location]. Welcome to my GitHub profile! Here, you'll find some of the projects I've been working on.
+I'm Bhushan Ghevde, a passionate software developer based in Kalyan. Welcome to my GitHub profile! Here, you'll find some of the projects I've been working on.
 
-🌱 I'm currently learning [What you're currently learning].
-👯 I'm looking to collaborate on [Types of projects you're interested in].
-💬 Ask me about [Any specific technology or topic you're knowledgeable about].
-📫 How to reach me: [Your email or social media profiles].
+🌱 I'm currently learning C# and Angular JS.
+👯 I'm looking to collaborate on any Software related Projects.
+📫 How to reach me: Bhushanghevde15@gmail.com.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [List the programming languages you use].
-- Frameworks & Libraries: [List any frameworks or libraries you're proficient in].
-- Databases: [List the databases you work with].
-- Tools: [Mention any development tools you use].
+- Programming Languages: C,Java,Python,Dart,C#.
+- Frameworks & Libraries: Flutter,Angular.
+- Databases: SQL,FIREBASE.
 
 ## 🚀 Projects
 
 Here are some of the projects I'm proud of:
 
-1. [Project Name](Link to Project) - Brief project description.
-2. [Project Name](Link to Project) - Brief project description.
-3. [Project Name](Link to Project) - Brief project description.
+1. OACHARYA https://github.com/bhushan-1501/OAcharya - Its a web portal designed using HTML, CSS to get interaction between pandits and customer during covid pandemic..
+2. StudyBooth Application https://github.com/bhushan-1501/StudyBooth_Application_Final/ - An application for Student And teacher to connect and get everything in one platform designed using Flutter and Firebase.
+3. FoodBoard Application - Its an application that is designed using flutter and firebase to solve all the food needs.
 
 You can explore more of my projects on my [GitHub repositories](https://github.com/bhushan-1501?tab=repositories).
 
@@ -34,8 +32,8 @@ You can explore more of my projects on my [GitHub repositories](https://github.c
 
 Feel free to connect with me on social media or send me an email. I'm always open to interesting conversations and collaboration opportunities.
 
-- Twitter: [Your Twitter Profile](https://twitter.com/your_twitter)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_linkedin)
-- Email: [Your Email](mailto:youremail@example.com)
+- Twitter: BhushanGhevde https://twitter.com/BhushanGhevde
+- LinkedIn: Bhushan Ghevde https://www.linkedin.com/in/bhushan-ghevde/
+- Email: (mailto:BhushanGhevde15@gmail.com)
 
 Thanks for visiting my profile! 😄
